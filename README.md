@@ -6,4 +6,3 @@ Estimately starting date 10/05/2015
 
 Eye tracking lab tour scheduled around 09/25/2015
 
-Google glass eye tracking limitation: can only track one eyes. 
