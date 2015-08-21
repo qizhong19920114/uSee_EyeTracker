@@ -10,5 +10,5 @@ Three steps:
 
 1. Gaze estimation 
 2. Stimulus presentation
-3. Data Analysis 
+3. Data analysis 
 
