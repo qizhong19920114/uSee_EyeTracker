@@ -1,0 +1,1 @@
+pyuic4 -x uSeeDemoUI.ui -o uSeeDemoUI.py
